@@ -1,2 +1,1 @@
-# graphingcalculator
- 
+# simple calculator
